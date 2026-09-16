@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": 0,
+    "text": "Admission Policy\n\nHospital Knowledge Base — Reference Document\n\nNote: Fill in the placeholders below with your hospital's actual policy details, then save/export as PDF into this same subfolder for RAG ingestion.\n\nAdmission Process\n\nTypes of Admission\n\nEmergency Admission — [describe process]\n\nPlanned/Elective Admission — [describe process]\n\nReferral Admission — [describe process]\n\nRequired Documents at Admission\n\n[National ID / CNIC]\n\n[Referral letter, if applicable]\n\n[Insurance card / payment method]\n\n[Previous medical records, if any]\n\nAdmission Steps\n\n1. [Registration at front desk]\n\n2. [Initial assessment / triage]\n\n3. [Bed allocation]\n\n4. [Deposit / insurance verification]\n\nAdmission Fees & Deposits\n\nWard Type\n\nDeposit Required\n\nDaily Rate\n\nGeneral Ward\n\n[amount]\n\n[amount]\n\nPrivate Room\n\n[amount]\n\n[amount]\n\nICU\n\n[amount]\n\n[amount]",
+    "category": "02_Admission",
+    "source_file": "Admission_Policy.docx",
+    "page": null
+  },
+  {
+    "chunk_id": 1,
+    "text": "Important Contacts\n\nHospital Knowledge Base — Reference Document\n\nNote: Fill in the placeholders below with your hospital's actual policy details, then save/export as PDF into this same subfolder for RAG ingestion.\n\nKey Contact Numbers\n\nService\n\nContact Number\n\nAvailability\n\nEmergency / Ambulance\n\n[number]\n\n24/7\n\nReception / Front Desk\n\n[number]\n\n[hours]\n\nAdmissions Office\n\n[number]\n\n[hours]\n\nBilling / Accounts\n\n[number]\n\n[hours]\n\nPharmacy\n\n[number]\n\n[hours]\n\nPatient Complaints / Feedback\n\n[number]\n\n[hours]\n\nSecurity\n\n[number]\n\n24/7\n\nIT Helpdesk\n\n[number]\n\n[hours]\n\nDepartment-wise Extensions\n\n[Link or cross-reference to 03_Departments for full list]\n\nEmergency External Contacts\n\nService\n\nNumber\n\nFire Department\n\n[number]\n\nPolice\n\n[number]\n\nBlood Bank\n\n[number]\n\nPoison Control\n\n[number]",
+    "category": "06_Important_Contacts",
+    "source_file": "Important_Contacts.docx",
+    "page": null
+  },
+  {
+    "chunk_id": 2,
+    "text": "Discharge and Follow-up\n\nHospital Knowledge Base — Reference Document\n\nNote: Fill in the placeholders below with your hospital's actual policy details, then save/export as PDF into this same subfolder for RAG ingestion.\n\nDischarge Process\n\nDischarge Criteria\n\n[Clinical stability criteria]\n\n[Physician sign-off requirement]\n\nDischarge Steps\n\n1. [Physician issues discharge order]\n\n2. [Discharge summary prepared]\n\n3. [Billing clearance]\n\n4. [Medications and instructions handed to patient]\n\nDischarge Summary Must Include\n\n[Diagnosis]\n\n[Treatment given]\n\n[Medications prescribed on discharge]\n\n[Follow-up instructions]\n\nFollow-up Care\n\n[How to book a follow-up appointment]\n\n[Follow-up OPD timings]\n\n[When to seek emergency care again — red-flag symptoms]\n\nAgainst Medical Advice (AMA) Discharge\n\n[Policy and required documentation for AMA discharge]",
+    "category": "05_Discharge_and_Follow_up",
+    "source_file": "Discharge_and_Follow_up.docx",
+    "page": null
+  },
+  {
+    "chunk_id": 3,
+    "text": "Hospital Information\n\nHospital Knowledge Base — Reference Document\n\nNote: Fill in the placeholders below with your hospital's actual policy details, then save/export as PDF into this same subfolder for RAG ingestion.\n\nGeneral Information\n\nHospital Name: \n\n[Full legal/registered name]\n\nAddress: \n\n[Street, city, postal code]\n\nEstablished: \n\n[Year founded]\n\nAccreditation: \n\n[e.g. JCI, national health authority license number]\n\nBed Capacity: \n\n[Total beds, ICU beds, etc.]\n\nMission & Vision\n\n[Mission statement]\n\n[Vision statement]\n\nVisiting Hours\n\nWard Type\n\nVisiting Hours\n\nNumber of Visitors Allowed\n\nGeneral Ward\n\n[e.g. 4pm–6pm]\n\n[e.g. 2]\n\nICU\n\n[e.g. 30 min, twice daily]\n\n[e.g. 1]\n\nMaternity\n\n[time]\n\n[number]\n\nFacilities Available\n\n[Pharmacy]\n\n[Laboratory]\n\n[Radiology / Imaging]\n\n[Cafeteria]\n\n[Prayer room]\n\n[Parking]",
+    "category": "01_Hospital_Information",
+    "source_file": "Hospital_Information.docx",
+    "page": null
+  },
+  {
+    "chunk_id": 4,
+    "text": "Departments\n\nHospital Knowledge Base — Reference Document\n\nNote: Fill in the placeholders below with your hospital's actual policy details, then save/export as PDF into this same subfolder for RAG ingestion.\n\nClinical Departments\n\nDepartment\n\nLocation / Floor\n\nOPD Timings\n\nContact Ext.\n\nCardiology\n\n[e.g. Floor 2]\n\n[e.g. Mon–Sat, 9am–2pm]\n\n[ext.]\n\nEmergency (ER)\n\n[Ground Floor]\n\n24/7\n\n[ext.]\n\nPediatrics\n\n[floor]\n\n[timings]\n\n[ext.]\n\nGynecology & Obstetrics\n\n[floor]\n\n[timings]\n\n[ext.]\n\nOrthopedics\n\n[floor]\n\n[timings]\n\n[ext.]\n\nRadiology\n\n[floor]\n\n[timings]\n\n[ext.]\n\nLaboratory\n\n[floor]\n\n[timings]\n\n[ext.]\n\nSurgery\n\n[floor]\n\n[timings]\n\n[ext.]\n\nNon-Clinical / Support Departments\n\n[Admissions & Billing]\n\n[Medical Records / HIM]\n\n[Pharmacy]\n\n[Housekeeping]\n\n[IT / Health Informatics]\n\nDepartment Heads (Optional)\n\nDepartment\n\nHead / In-charge\n\nContact\n\n[Department]\n\n[Name / Designation]\n\n[phone/ext.]",
+    "category": "03_Departments",
+    "source_file": "Departments.docx",
+    "page": null
+  },
+  {
+    "chunk_id": 5,
+    "text": "Patient Safety\n\nHospital Knowledge Base — Reference Document\n\nNote: Fill in the placeholders below with your hospital's actual policy details, then save/export as PDF into this same subfolder for RAG ingestion.\n\nPatient Safety Policies\n\nPatient Identification\n\n[Two-identifier policy — name + MR number / DOB]\n\n[Wristband color coding, if used]\n\nInfection Control\n\n[Hand hygiene protocol]\n\n[Isolation precautions for infectious patients]\n\n[PPE usage guidelines]\n\nMedication Safety\n\n[High-alert medication handling]\n\n[Medication reconciliation process]\n\n[Allergy documentation requirement]\n\nFall Prevention\n\n[Fall risk assessment tool used]\n\n[Precautions for high-risk patients]\n\nIncident Reporting\n\n[How to report a safety incident / near-miss]\n\n[Reporting timeline and escalation path]\n\nEmergency Codes\n\nCode\n\nMeaning\n\nCode Blue\n\n[e.g. Cardiac/Respiratory arrest]\n\nCode Red\n\n[e.g. Fire]\n\nCode Pink\n\n[e.g. Infant/Child abduction]\n\nCode Black\n\n[e.g. Bomb threat / security]",
+    "category": "04_Patient_Safety",
+    "source_file": "Patient_Safety.docx",
+    "page": null
+  }
+]
